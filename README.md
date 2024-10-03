@@ -39,4 +39,4 @@ Ein Commit kann folgendermassen gfeamcht werden:
 - Drücken Sie bei "*Änderungen*" oder den einzelnen *Dateien* auf das Plus-Symbol.
 - Danach sollten die Dateien unter "*gestagete Änderunegn*" aufgelistet sein.
 - Notieren Sie eine kurze sinnvolle Nachricht im Eingabefenster.
-- Drücken Sie im Anschluss auf "*commit*" und "*sync*".
+- Drücken Sie im Anschluss auf "*commit*" und im Anschluss auf den Pfeil.
