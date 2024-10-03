@@ -24,3 +24,19 @@ Bevor Sie das zur Verfügung gestellte Repository Klonen und bearbeiten können,
 > [Link für Installation](https://desktop.github.com/download/)
 
 Erstellen Sie nach der Instrallation einen Account und notieren Sie sich Ihre Anmeldedaten.
+
+# Weitere einmalige Schritte
+- Projekt 01-HTML-CSS klonen und speichern
+- VS Code > Git Graph > Personendaten
+
+# Commits erstellen
+Wenn Sie Änderungen an `index.html` oder `style.css` vorgenommen haben, so sollten Sie in sinnvollen Abständen *Commits* setzen.
+
+Dadurch wird ihr Prozess festgehalten und es wird nachvollziehbar, wann Sie was geändert oder ergänzt haben. Zudem können Sie jederzeit zu einer älteren Version Ihres Projektes wechseln oder Versionen vergeleichen.
+
+Ein Commit kann folgendermassen gfeamcht werden:
+- Navigieren Sie auf der linken Seite in VS Code zu "*Quellcodeverwaltung*".
+- Drücken Sie bei "*Änderungen*" oder den einzelnen *Dateien* auf das Plus-Symbol.
+- Danach sollten die Dateien unter "*gestagete Änderunegn*" aufgelistet sein.
+- Notieren Sie eine kurze sinnvolle Nachricht im Eingabefenster.
+- Drücken Sie im Anschluss auf "*commit*" und "*sync*".
