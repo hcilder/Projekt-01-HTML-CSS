@@ -8,7 +8,7 @@ Dafür müssen Sie aber zunächst VS Code installieren:
 
 > [Link für Installation](https://code.visualstudio.com)
 
-Öffnen Sie nach der Installation das Programm. Am linken Rand von VS-Code finden Sie das Menü Extensions. Suchen Sie dort nach den **Extensions** *Codeium, LiveServer* sowie *Prettier* und installieren Sie sie.
+Öffnen Sie nach der Installation das Programm. Am linken Rand von VS-Code finden Sie das Menü Extensions. Suchen Sie dort nach den **Extensions** *Codeium, Git Graph, LiveServer* sowie *Prettier* und installieren Sie sie.
 
 ![](extensions.png)
 
@@ -17,7 +17,7 @@ Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie übe
 # Projekt mit GitHub
 **GitHub** ist eine cloud-basierte Plattform, auf der Sie Code speichern, teilen und mit anderen zusammenarbeiten können. Indem Sie Code in einem «Repository» auf GitHub speichern, können Sie: Ihre Arbeit präsentieren oder teilen. Änderungen an Ihrem Code im Laufe der Zeit nachverfolgen und verwalten.
 
-**Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachver- folgt. Git ist besonders nützlich, wenn Sie und eine Gruppe von Personen gleichzeitig Änderungen («commits») an denselben Dateien vornehmen.
+**Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachverfolgt. Git ist besonders nützlich, wenn Sie und eine Gruppe von Personen gleichzeitig Änderungen («commits») an denselben Dateien vornehmen.
 
 Bevor Sie das zur Verfügung gestellte Repository Klonen und bearbeiten können, müssen Sie GitHub Desktop installieren:
 
