@@ -17,7 +17,7 @@ Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie übe
 # Projekt mit GitHub
 **Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachverfolgt. Git ist besonders nützlich für die Nachverfolgung von Codeänderungen und Kollaborationen. Beispielsweise können Sie und eine Gruppe von Personen gleichzeitig Änderungen («commits») an denselben Dateien vornehmen.
 
-**GitHub** ist nicht dasselbe wie Git. GitHub ist eine cloud-basierte Plattform, welche Werkzeuge zur Verfügung stellt, um einfach mit Git zu arbeiten. Im Zentrum steht dabei die Arbeit von sogennten «Repository». 
+**GitHub** ist nicht dasselbe wie Git. GitHub ist eine cloud-basierte Plattform, welche Werkzeuge zur Verfügung stellt, um einfach mit Git zu arbeiten. Im Zentrum steht dabei die Arbeit mit sogennten «Repository». 
 
 Bevor Sie das zur Verfügung gestellte Repository Klonen und bearbeiten können, müssen Sie GitHub Desktop installieren:
 
