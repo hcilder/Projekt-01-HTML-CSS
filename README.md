@@ -12,7 +12,7 @@ Dafür müssen Sie aber zunächst VS Code installieren:
 
 ![](extensions.png)
 
-Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie über `ctrl + S`(Windows) oder `command + S` (macOS) tun. Wenn Sie das **Befehlsfenster** öffnen möchten,so können Sie dies über `shift + ctrl + P` (Windows) oder `shift + command + P` (macOS) tun.
+Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie über `ctrl + S`(Windows) oder `command + S` (macOS) tun. Wenn Sie das **Befehlsfenster** öffnen möchten, so können Sie dies über `shift + ctrl + P` (Windows) oder `shift + command + P` (macOS) tun.
 
 # Projekt mit GitHub
 **Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachverfolgt. Git ist besonders nützlich für die Nachverfolgung von Codeänderungen und Kollaborationen. Beispielsweise können Sie und eine Gruppe von Personen gleichzeitig Änderungen («commits») an denselben Dateien vornehmen.
@@ -23,7 +23,7 @@ Bevor Sie das zur Verfügung gestellte Repository Klonen und bearbeiten können,
 
 > [Link für Installation](https://desktop.github.com/download/)
 
-Erstellen Sie nach der Instrallation einen Account und notieren Sie sich Ihre Anmeldedaten.
+Erstellen Sie nach der Installation einen Account und notieren Sie sich Ihre Anmeldedaten.
 
 # Weitere einmalige Schritte
 - Projekt 01-HTML-CSS klonen und speichern
@@ -34,7 +34,7 @@ Wenn Sie Änderungen an `index.html` oder `style.css` vorgenommen haben, so soll
 
 Dadurch wird ihr Prozess festgehalten und es wird nachvollziehbar, wann Sie was geändert oder ergänzt haben. Zudem können Sie jederzeit zu einer älteren Version Ihres Projektes wechseln oder Versionen vergeleichen.
 
-Ein Commit kann folgendermassen gfeamcht werden:
+Ein Commit kann folgendermassen gemacht werden:
 - Navigieren Sie auf der linken Seite in VS Code zu "*Quellcodeverwaltung*".
 - Drücken Sie bei "*Änderungen*" oder den einzelnen *Dateien* auf das Plus-Symbol.
 - Danach sollten die Dateien unter "*gestagete Änderunegn*" aufgelistet sein.
