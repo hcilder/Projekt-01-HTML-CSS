@@ -3,7 +3,7 @@ Das Ziel dieses Projektes ist, eine eigene Webseite zu einem von Ihnen gewählte
 Bevor Sie jedoch loslegen können, müssen ein paar Grundinstallationen gemacht werden.
 
 # Installation von VS Code
-Visual Studio Code (kurz VS Code) ist ein kostenloser Quelltext-Editor von Microsoft. VS Code ist plattformübergreifend für die Betriebssysteme Windows, macOS und Linux verfügbar. Von nun an werden Sie diesen Editor viel verwenden. Unter anderem, um eine Webseite mit den Sprachen html und CSS zu erstellen, Grafiken mit SVG zu konstruieren oder auch um JS zu lernen.
+Visual Studio Code (kurz VS Code) ist ein kostenloser Quelltext-Editor von Microsoft. VS Code ist plattformübergreifend für die Betriebssysteme Windows, macOS und Linux verfügbar. Von nun an werden Sie diesen Editor viel verwenden. Unter anderem, um eine Webseite mit den Sprachen HTML und CSS zu erstellen, Grafiken mit SVG zu konstruieren oder auch um JS zu lernen.
 Dafür müssen Sie aber zunächst VS Code installieren:
 
 > [Link für Installation](https://code.visualstudio.com)
