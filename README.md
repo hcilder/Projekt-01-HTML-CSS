@@ -17,7 +17,7 @@ Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie übe
 # Projekt mit GitHub
 **Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachverfolgt. Git ist besonders nützlich für die Nachverfolgung von Codeänderungen und Kollaborationen. Beispielsweise können Sie und eine Gruppe von Personen gleichzeitig Änderungen ("commits") an denselben Dateien vornehmen.
 
-**GitHub** ist nicht dasselbe wie Git. GitHub ist eine cloud-basierte Plattform, welche Werkzeuge zur Verfügung stellt, um einfach mit Git zu arbeiten. Im Zentrum steht dabei die Arbeit mit sogennten "Repository". 
+**GitHub** ist nicht dasselbe wie Git. GitHub ist eine cloud-basierte Plattform, welche Werkzeuge zur Verfügung stellt, um einfach mit Git zu arbeiten. Im Zentrum steht dabei die Arbeit mit sogenannten "Repository". 
 
 Bevor Sie das zur Verfügung gestellte Repository Klonen und bearbeiten können, müssen Sie GitHub Desktop installieren:
 
@@ -32,11 +32,11 @@ Erstellen Sie nach der Installation einen Account und notieren Sie sich Ihre Anm
 # Commits erstellen
 Wenn Sie Änderungen an `index.html` oder `style.css` vorgenommen haben, so sollten Sie in sinnvollen Abständen *Commits* setzen.
 
-Dadurch wird ihr Prozess festgehalten und es wird nachvollziehbar, wann Sie was geändert oder ergänzt haben. Zudem können Sie jederzeit zu einer älteren Version Ihres Projektes wechseln oder Versionen vergeleichen.
+Dadurch wird ihr Prozess festgehalten und es wird nachvollziehbar, wann Sie was geändert oder ergänzt haben. Zudem können Sie jederzeit zu einer älteren Version Ihres Projektes wechseln oder Versionen vergleichen.
 
 Ein Commit kann folgendermassen gemacht werden:
 - Navigieren Sie auf der linken Seite in VS Code zu "*Quellcodeverwaltung*".
 - Drücken Sie bei "*Änderungen*" oder den einzelnen *Dateien* auf das Plus-Symbol.
-- Danach sollten die Dateien unter "*gestagete Änderunegn*" aufgelistet sein.
+- Danach sollten die Dateien unter "*gestagete Änderungen*" aufgelistet sein.
 - Notieren Sie eine kurze sinnvolle Nachricht im Eingabefenster.
 - Drücken Sie im Anschluss auf "*commit*" und im Anschluss auf den Pfeil.
