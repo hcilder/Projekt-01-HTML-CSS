@@ -30,6 +30,7 @@ Bevor Sie das zur Verfügung gestellte Repository klonen und bearbeiten können,
 **Installation MacOS:**
 
 > [Link für Installation]()
+
 Wenn Sie einen Mac haben, können Sie Git am einfachsten über `homebrew` installieren. Dafür müssen Sie aber zuerst homebrew selber installieren. 
 Öffnen Sie dafür mit `cmd + Space` eine Suche und finden Sie das Programm `Terminal`.
 
