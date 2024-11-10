@@ -1,17 +1,6 @@
 # Webseite mit HTML und CSS
 Das Ziel dieses Projektes ist, eine eigene Webseite zu einem von Ihnen gewählten Thema zu erstellen.
-Bevor Sie jedoch loslegen können, müssen ein paar Grundinstallationen gemacht werden.
-
-# Projekt mit GitHub
-**Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachverfolgt. Git ist besonders nützlich für die Nachverfolgung von Codeänderungen und Kollaborationen. Beispielsweise können Sie und eine Gruppe von Personen gleichzeitig Änderungen ("commits") an denselben Dateien vornehmen.
-
-**GitHub** ist nicht dasselbe wie Git. GitHub ist eine cloud-basierte Plattform, welche Werkzeuge zur Verfügung stellt, um einfach mit Git zu arbeiten. Im Zentrum steht dabei die Arbeit mit sogenannten "Repository". 
-
-Bevor Sie das zur Verfügung gestellte Repository Klonen und bearbeiten können, müssen Sie GitHub Desktop installieren:
-
-> [Link für Installation](https://desktop.github.com/download/)
-
-Logen Sie sich nach der Installation mit Ihren Anmeldedaten ein.
+Bevor Sie jedoch loslegen können, brauchen Sie einen GitHub Account und es müssen ein paar Grundinstallationen gemacht werden.
 
 # Installation von VS Code
 Visual Studio Code (kurz VS Code) ist ein kostenloser Quelltext-Editor von Microsoft. VS Code ist plattformübergreifend für die Betriebssysteme Windows, macOS und Linux verfügbar. Von nun an werden Sie diesen Editor viel verwenden. Unter anderem, um eine Webseite mit den Sprachen HTML und CSS zu erstellen, Grafiken mit SVG zu konstruieren oder auch um JS zu lernen.
@@ -24,6 +13,36 @@ Dafür müssen Sie aber zunächst VS Code installieren:
 ![](extensions.png)
 
 Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie über `ctrl + S`(Windows) oder `command + S` (macOS) tun. Wenn Sie das **Befehlsfenster** öffnen möchten, so können Sie dies über `shift + ctrl + P` (Windows) oder `shift + command + P` (macOS) tun.
+
+# Projekt mit GitHub
+**Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachverfolgt. Git ist besonders nützlich für die Nachverfolgung von Codeänderungen und Kollaborationen. Beispielsweise können Sie und eine Gruppe von Personen gleichzeitig Änderungen ("commits") an denselben Dateien vornehmen.
+
+**GitHub** ist nicht dasselbe wie Git. GitHub ist eine cloud-basierte Plattform, welche Werkzeuge zur Verfügung stellt, um einfach mit Git zu arbeiten. Im Zentrum steht dabei die Arbeit mit sogenannten "Repository". 
+
+Bevor Sie das zur Verfügung gestellte Repository klonen und bearbeiten können, müssen Sie Git installieren:
+
+**Installation Windows:**
+
+> [Link für Installation](https://git-scm.com/downloads/win)
+
+(Nutzen Sie auf obiger Seite "Click here to download". Bei der Installation müssen Sie dann "Use Visual Studio Code as Git's default editor" anwählen.)
+
+**Installation MacOS:**
+
+> [Link für Installation]()
+Wenn Sie einen Mac haben, können Sie Git am einfachsten über `homebrew` installieren. Dafür müssen Sie aber zuerst homebrew selber installieren. 
+Öffnen Sie dafür mit `cmd + Space` eine Suche und finden Sie das Programm `Terminal`.
+
+Kopieren Sie den folgenden Befehl in Ihr Terminal und drücken Sie auf Enter.
+
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+Installieren Sie im Anschluss Git über:
+
+```
+brew install git
+```
 
 # Weitere einmalige Schritte
 - Projekt 01-HTML-CSS klonen und speichern
