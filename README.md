@@ -57,4 +57,4 @@ Ein Commit kann folgendermassen gemacht werden:
 - Drücken Sie bei "*Änderungen*" oder den einzelnen *Dateien* auf das Plus-Symbol.
 - Danach sollten die Dateien unter "*gestagete Änderungen*" aufgelistet sein.
 - Notieren Sie eine kurze sinnvolle Nachricht im Eingabefenster.
-- Drücken Sie im Anschluss auf "*commit*" und im Anschluss auf den Pfeil.
+- Drücken Sie im Anschluss auf "*commit*" und danach auf den runden Pfeil.
