@@ -12,7 +12,7 @@ Dafür müssen Sie aber zunächst VS Code installieren:
 
 ![](extensions.png)
 
-Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie über `ctrl + S`(Windows) oder `command + S` (macOS) tun. Wenn Sie das **Befehlsfenster** öffnen möchten, so können Sie dies über `shift + ctrl + P` (Windows) oder `shift + command + P` (macOS) tun.
+Später müssen Sie Ihren Code immer wieder **Speichern**, dies können Sie über `ctrl + s`(Windows) oder `cmd + s` (MacOS) tun. Wenn Sie das **Befehlsfenster** öffnen möchten, so können Sie dies über `ctrl + shift + p` (Windows) oder `cmd + shift + p` (MacOS) tun.
 
 # Projekt mit GitHub
 **Git** ist ein Versionskontrollsystem, das Änderungen in Ihren Dateien intelligent nachverfolgt. Git ist besonders nützlich für die Nachverfolgung von Codeänderungen und Kollaborationen. Beispielsweise können Sie und eine Gruppe von Personen gleichzeitig Änderungen ("commits") an denselben Dateien vornehmen.
@@ -25,7 +25,7 @@ Bevor Sie das zur Verfügung gestellte Repository klonen und bearbeiten können,
 
 > [Link für Installation](https://git-scm.com/downloads/win)
 
-(Nutzen Sie auf obiger Seite "Click here to download". Bei der Installation müssen Sie dann "Use Visual Studio Code as Git's default editor" anwählen.)
+Nutzen Sie auf obiger Seite "Click here to download". Bei der Installation müssen Sie dann "Use Visual Studio Code as Git's default editor" anwählen.
 
 **Installation MacOS:**
 
@@ -37,14 +37,14 @@ Kopieren Sie den folgenden Befehl in Ihr Terminal und drücken Sie auf Enter. Ev
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-Erst wenn der vorherige Schritt abgeschlossen ist (es muss Ihr Name$ erscheinen), installieren Sie Git über:
+Erst wenn der vorherige Schritt abgeschlossen ist (es muss Ihr *Name$* erscheinen), installieren Sie Git über:
 
 ```
 brew install git
 ```
 
 # Weitere einmalige Schritte
-- Projekt 01-HTML-CSS klonen und speichern
+- Projekt 01-HTML-CSS von GitHub klonen und speichern
 - VS Code > Git Graph > Personendaten
 
 # Commits erstellen
