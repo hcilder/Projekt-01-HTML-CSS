@@ -34,13 +34,20 @@ Wenn Sie einen Mac haben, können Sie Git am einfachsten über `homebrew` instal
 
 Kopieren Sie den folgenden Befehl in Ihr Terminal und drücken Sie auf Enter. Eventuell werden Sie noch aufgefordert, Ihr Passwort einzugeben (Tippen + Enter).
 
-```
+```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-Erst wenn der vorherige Schritt abgeschlossen ist (es muss Ihr *Name$* erscheinen), installieren Sie Git über:
 
-```
+Wenn der vorherige Schritt abgeschlossen ist (es muss Ihr *Name$* erscheinen), so können Sie `ctrl + d` drücken, um das Terminal zu beenden.Öffnen Sie ein neues terminal und installieren Sie Git mit dem Befehl:
+
+```bash
 brew install git
+```
+
+Falls der Befehl nicht funktioniert, versuchen Sie es mit dem Befehl
+
+```bash
+/opt/homebrew/bin/brew install git
 ```
 
 # Weitere einmalige Schritte
