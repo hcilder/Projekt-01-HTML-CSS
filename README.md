@@ -8,7 +8,7 @@ Dafür müssen Sie aber zunächst VS Code installieren:
 
 > [Link für Installation](https://code.visualstudio.com)
 
-Öffnen Sie nach der Installation das Programm. Am linken Rand von VS-Code finden Sie das Menü Extensions. Suchen Sie dort nach den **Extensions** *Codeium, Git Graph, LiveServer* sowie *Prettier* und installieren Sie sie.
+Öffnen Sie nach der Installation das Programm. Am linken Rand von VS-Code finden Sie das Menü Extensions. Suchen Sie dort nach den **Extensions** *Codeium, Git Graph* sowie *LiveServer* und installieren Sie sie.
 
 ![](extensions.png)
 
